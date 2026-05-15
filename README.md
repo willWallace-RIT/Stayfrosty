@@ -313,7 +313,7 @@ The user immediately looks up.
 
 The event never happens.
 
-![amigara dog](https://klipy.com/gifs/amigara-dog)
+[amigara dog](https://klipy.com/gifs/amigara-dog)
 
 
 ---
