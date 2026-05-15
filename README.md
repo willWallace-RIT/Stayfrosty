@@ -315,7 +315,7 @@ The event never happens.
 
 [amigara dog](https://klipy.com/gifs/amigara-dog)
 
-
+![amigara dog](https://github.com/willWallace-RIT/Stayfrosty/blob/main/1778241972402.gif)
 ---
 
 Future Research
